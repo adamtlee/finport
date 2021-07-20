@@ -10,11 +10,4 @@
     <% end %> 
 </div>
 
-<% if @stock %>
-<div>
-        <strong>Symbol: <%= @stock.ticker %></strong>
-        <strong>Name: <%= @stock.name %></strong>
-        <strong>Price: <%= @stock.last_price %></strong>
-    
-</div>
-<% end %>
+<%= render 'users/result' %>
