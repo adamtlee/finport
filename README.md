@@ -27,3 +27,7 @@ run the server:
 ```
 rails s 
 ```
+
+## Resources
+- IEX ruby client: https://github.com/dblock/iex-ruby-client
+- IEX platform: https://iexcloud.io/
