@@ -1,6 +1,7 @@
 # Finport (Legacy Stocker) 
 
 Finport is an application to track stock listings using the IEX api
+db diagram: https://dbdiagram.io/d/60f84a004ed9be1c05d6ae06
 
 ## Instructions
 Clone the repository:   
